@@ -1,0 +1,6 @@
+{
+  "name": "Kith & Kin Toy Atelier",
+  "description": "Curated heirloom wooden toys, tactile architecture sets, and kinetic discovery kits crafted for open-ended childhood play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
